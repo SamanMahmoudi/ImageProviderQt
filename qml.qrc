@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>IRHoma.ttf</file>
+        <file>Personal1.png</file>
+    </qresource>
+</RCC>
